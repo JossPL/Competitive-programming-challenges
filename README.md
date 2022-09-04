@@ -1,9 +1,9 @@
-## Competitive programming challenges
+# Competitive programming challenges
 Solution to competitive programming challenges from different platforms and contests
 
-# Current ICPC team: cin>>nombre;
+### Current ICPC team: cin>>nombre;
 
-# Platforms user name:
+### Platforms user name:
 
 LeetCode: https://leetcode.com/JossPL/
 
