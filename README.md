@@ -1,2 +1,2 @@
-# UVA-problems
-Solution to competitive programming challenges from UVA online judge
+# Competitive programming challenges
+Solution to competitive programming challenges from different platforms and contests
